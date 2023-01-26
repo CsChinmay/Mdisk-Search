@@ -25,7 +25,7 @@ I'ᴍ A Bᴏᴛ Fᴏʀ Sᴇɴᴅɪɴɢ Fʀᴏᴍ Yᴏᴜʀ Cʜᴀɴɴᴇʟ Tᴏ 
 Yᴏᴜ Cᴀɴ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ.☺️
 
 Fᴏʀ Mᴏʀᴇ Iɴꜰᴏ Cʟɪᴄᴋ Oɴ Hᴇʟᴘ ✅''')
-    START_PHOTO = os.getenv("START_PHOTO", "https://telegra.ph/Welcome-01-13-17 https://telegra.ph/Welcome-01-13-18 https://telegra.ph/Welcome-01-13-22 https://telegra.ph/Welcome-01-13-21 https://telegra.ph/Welcome-01-13-20 https://telegra.ph/Welcome-01-13-22")
+    START_PHOTO = os.getenv("START_PHOTO", "https://telegra.ph/Welcome-01-13-22")
     HOME_TEXT = os.getenv("HOME_TEXT", '''ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕
 
 ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴛʜᴇʀᴇ ʏᴏᴜʀ ʟɪɴᴋꜱ,
