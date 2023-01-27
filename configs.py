@@ -7,8 +7,8 @@ import os
 
 
 class Config(object):
-    API_ID = int(os.getenv("API_ID", "22844255"))
-    API_HASH = os.getenv("API_HASH", "b277b6da4467f1eeb35495ac72c0754f")
+    API_ID = int(os.getenv("API_ID", "21780596"))
+    API_HASH = os.getenv("API_HASH", "fc2276c2d119c3357359407692f113cd")
     BOT_TOKEN = os.getenv("BOT_TOKEN", "5884945298:AAG3pJJSR8YsIxmanFHOakCTd67i5qlorOU")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "A2ZSearchBot")
     USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOGsBuzuWrXkuep3RVH5ZYSCogPqqpV1bME8F_sCG4AAQQOzRkDpVE43VyiibUOf5Q0N7INdgo7ERPnd4KYgolimytfgfI5EIEoeet1pQB47xwLSWw_JfmSPyX_mtGp10tJZfAiPC0ra0RsVM2d028x6mu3e60dGIkilcsGyyMsgssWFLE5F2k_PjzCTrbwHSIMpcxzUKnZIzw0cFTZLt8hGO6Aj3rvUxQg_uuP1O2LcbfRKewJH6wrVzI5-1R9JnWlvJMebrtoFO9IPPgrhvelVXojkKe0aU8sDvGW61Av-jr16PTNgSbGxWjqjKSrMT_gvHisMMvdQKV31ZMCTt6D9LJ8U=")
